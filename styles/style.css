@@ -78,10 +78,11 @@
 
 .cover__title {
   position: relative;
-  right: 50px;
-  left: 50px;
   z-index: 2;
   display: block;
+  padding-right: 50px;
+  padding-bottom: 130px;
+  padding-left: 50px;
   color: #fff;
   font-weight: 700;
   font-size: 100px;
@@ -99,14 +100,13 @@
 
 .aligned-text_center {
   display: block;
-  margin-right: 155px;
+  margin-right: 60px;
   margin-bottom: 5px;
   text-align: center;
 }
 
 .aligned-text_right {
   display: block;
-  margin-right: 100px;
   text-align: right;
 }
 
@@ -120,8 +120,6 @@
 
 .cover__description {
   position: relative;
-  top: 655px;
-  top: 130px;
   z-index: 2;
   width: 100%;
   color: #fff;
